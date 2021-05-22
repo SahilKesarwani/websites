@@ -2,7 +2,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background: url('../img/bg.jpg');
+    background: url('/Gym Site/bg.jpg');
     background-size: cover;
    
 
@@ -16,8 +16,8 @@ body {
 .logo {
     position: absolute;
     size: 10px;
-    left: 365px;
-    top: 27px;
+    left: 322px;
+    top: 99px;
 display: inline-block;
 }
 .heading {
